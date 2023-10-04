@@ -35,3 +35,6 @@ pip install feedparser
 pip install tk
 pip install pywebview
 
+##  Daha fazla bilgi için >
+Daha fazla bilgi için projenin [web sitesini ziyaret edin](http://www.example.com).
+

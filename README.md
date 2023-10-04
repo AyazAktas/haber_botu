@@ -27,6 +27,9 @@ Bu uygulama aşağıdaki Python kütüphanelerine ihtiyaç duyar:
 - `tkinter` (Grafik arayüz oluşturmak için)
 - `webview` (Web sayfalarını görüntülemek için)
 - `datetime` (Zaman ve tarih bilgilerini işlemek için)
+  
+##  Daha fazla bilgi için >
+Daha fazla bilgi için [web sitemi ziyaret edin](https://ayazaktas.netlify.app).
 
 Gerekli bağımlılıkları kurmak için aşağıdaki komutları kullanabilirsiniz:
 
@@ -35,6 +38,4 @@ pip install feedparser
 pip install tk
 pip install pywebview
 
-##  Daha fazla bilgi için >
-Daha fazla bilgi için projenin [web sitesini ziyaret edin](http://www.example.com).
 

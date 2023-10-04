@@ -11,7 +11,7 @@ Haber Botu, haberleri çeşitli kategorilerde ve kaynaklardan getiren bir Python
 
 ## Ekran Görüntüsü
 
-![Ekran Görüntüsü]()
+![Ekran Görüntüsü](HaberBotu.png)
 
 ## Kullanım
 
